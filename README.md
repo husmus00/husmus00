@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Husmus00
+- 👋 Hi, I’m @husmus00
 - 👀 I’m interested in ... Github
 - 🌱 I’m currently learning ... How to use Github
 - 💞️ I’m looking to collaborate on ... Github
