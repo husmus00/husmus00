@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @husmus00
-- 👀 I’m interested in ... Github
-- 🌱 I’m currently learning ... How to use Github
-- 💞️ I’m looking to collaborate on ... Github
-- 📫 How to reach me ... Via Github
+Greetings! My name is Hussam, and I'm a computer engineering graduate.<br>
+You can read more about me on my [Linkedin page](https://www.linkedin.com/in/hussam-alhassan/),or contact me via <hsm.link@proton.me>
+
+Feel free to use any of the code here.
 
 <!---
 Husmus00/Husmus00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
