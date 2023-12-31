@@ -1,5 +1,5 @@
 Greetings! My name is Hussam, and I'm a computer engineering graduate.<br>
-You can read more about me on my [Linkedin page](https://www.linkedin.com/in/hussam-alhassan/),or contact me via <hsm.link@proton.me>
+You can read more about me on my [Linkedin page](https://www.linkedin.com/in/hussam-alhassan/), or contact me via <hsm.link@proton.me>
 
 Feel free to use any of the code here.
 
