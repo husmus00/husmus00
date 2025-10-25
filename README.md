@@ -7,7 +7,7 @@ Feel free to use any of the code here.
 
 ![starry-sky](https://github.com/husmus00/starry-sky/blob/4f5d19f8108edd00061809f8e167b0cdf233f5bf/starry-sky-seed-130388.gif)
 
-The above GIF was generated with my [starry-sky](https://github.com/husmus00/starry-sky) script.
+[starry-sky](https://github.com/husmus00/starry-sky)
 
 <!---
 Husmus00/Husmus00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
