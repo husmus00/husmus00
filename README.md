@@ -1,7 +1,8 @@
-Greetings! My name is Hussam, and I'm a controls software engineer and computer engineering graduate.<br>
-You can read more about me on my [Linkedin page](https://www.linkedin.com/in/hussam-alhassan/)
+Greetings! My name is Hussam, and I'm a computer engineer focused on systems programming and low-level development.<br>
 
-Feel free to use any of the code here.
+I'm currently learning about OS dev, embedded devices, physics engines VMs, and compilers.
+
+You can read more about me on my [Linkedin page](https://www.linkedin.com/in/hussam-alhassan/)
 
 <br>
 
