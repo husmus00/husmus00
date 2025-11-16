@@ -1,6 +1,6 @@
 Greetings! My name is Hussam, and I'm a computer engineer focused on systems programming and low-level development.<br>
 
-I'm currently learning about OS dev, embedded devices, physics engines, VMs, and compilers.
+I love to learn by building things, and I'm currently learning about OS dev, embedded devices, physics engines, VMs, and compilers.
 
 ### Featured Projects
 
